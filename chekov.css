@@ -1,0 +1,28 @@
+.speech {
+    font-family: 'YourChosenFont', sans-serif; 
+    font-size: 12px; 
+    color: black;
+}
+
+.direction {
+    font-family: 'AnotherChosenFont', sans-serif; 
+    font-size: 12px; 
+    color: black;
+}
+
+.direction:hover {
+    background-color: darkgray;
+    color: white;
+}
+
+.ANDREY {
+    color: blue; 
+}
+
+.NATASHA {
+    color: green; 
+}
+
+.FERAPONT {
+    color: red; 
+}
