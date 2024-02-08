@@ -65,3 +65,22 @@ td.actor {
 td.dialogue {
     color: #777;
 }
+
+ul.navbar-horizontal {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    }
+    ul.navbar-horizontal li {
+    float:left; 
+    color:#e10d0d;
+    background-color:rgb(230, 249, 12)
+    }
+    ul.navbar-horizontal a {
+    display:block;
+    padding:10px
+    }
+    ul.navbar-horizontal a:hover {
+    background-color: #f3f341;
+    color:black;
+    }
